@@ -2,7 +2,7 @@
 
 ------
 
-![炮姐](https://github.com/xingxingRealzyx/xingxingRealzyx/pao.jpeg)
+![炮姐](https://github.com/xingxingRealzyx/xingxingRealzyx/blob/main/pao.jpeg)
 
 xingxing是高中时期的绰号，zyx则是真实姓名的缩写。
 
