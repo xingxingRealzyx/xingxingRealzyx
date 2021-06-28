@@ -1,8 +1,8 @@
-### 这里是xingxingRealzyx！
+### 这里是xingxing
 
 ------
 
-xingxing是高中时期的绰号，zyx则是真实姓名的缩写。
+xingxing是高中时期的绰号。
 
 - 主要学习自动控制
 - 职位是嵌入式软件工程师。
